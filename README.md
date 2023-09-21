@@ -37,7 +37,7 @@
 ✔️ Education\
 ✔️ Contact me
 
-To view a live example, **[click here](https://ashutosh1919.github.io/)**
+To view a live example, **[click here](https://aditya056.github.io/Portfolio/#/)**
 
 # Clone and Use 📋
 
